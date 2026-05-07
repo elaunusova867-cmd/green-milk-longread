@@ -1,0 +1,238 @@
+<div class="gm-longread">
+  <header class="gm-header">
+    <h1 class="gm-title">🌿 Растительное молоко: 7 вопросов, которые вы задаёте у полки</h1>
+    <div class="gm-lead">
+      Вы берёте упаковку, читаете состав и сомневаетесь:
+      <ul class="gm-list">
+        <li>«Безопасно ли это для детей?»</li>
+        <li>«Хватит ли белка и кальция?»</li>
+        <li>«Не свернётся ли в кофе?»</li>
+      </ul>
+      Мы не требуем верить нам на слово. Мы предлагаем инструменты для проверки. За 5 минут вы получите полную картину: от поля до полки, от состава до реальной пользы. Никаких лишних слов. Только факты, которые можно подтвердить.
+    </div>
+    <nav class="gm-nav">
+      <a href="#gm-problem">Для родителей</a>
+      <a href="#gm-solution">Для ЗОЖ/веганов</a>
+      <a href="#gm-proof">Быстрые факты</a>
+      <a href="#gm-guide">Подбор за 1 минуту</a>
+    </nav>
+  </header>
+
+  <section id="gm-problem" class="gm-section">
+    <h2 class="gm-heading">🧸 БЛОК 1: ПРОБЛЕМА</h2>
+    <h3 class="gm-subheading">Почему 8 из 10 покупателей откладывают упаковку обратно?</h3>
+    <p>Рынок растительных напитков растёт, но вместе с ним растут и сомнения. Мы проанализировали отзывы, вопросы в соцсетях и данные независимых исследований. Вот три главных страха, которые останавливают покупку.</p>
+    
+    <p><strong>Страх 1: Опасения за здоровье ребёнка</strong>
+
+    <code class="gm-code">64%</code> родителей беспокоятся, что отказ от коровьего молока может привести к дефициту кальция и белка. Проблема не в самих растительных напитках, а в нехватке чётких рекомендаций по их введению в рацион.</p>
+
+    <p><strong>Страх 2: Сомнения в качестве продукта</strong>
+
+    Рынок изобилует маркетинговыми уловками. До <code class="gm-code">40%</code> «растительных молок» содержат скрытые сиропы, стабилизаторы и следы аллергенов. Этикетки не всегда соответствуют действительности.</p>
+
+    <p><strong>Страх 3: Непонимание, как правильно использовать</strong>
+
+    <em>«Свернулось в кофе», «всплыло пенкой», «ребёнок выплюнул»</em>. Неправильная температура и пропорции могут испортить любой растительный напиток.</p>
+    <blockquote class="gm-quote">💡 <strong>Вывод:</strong> Сомнения естественны. Но их легко убрать, если бренд говорит открыто и даёт инструменты для проверки.</blockquote>
+  </section>
+
+  <section id="gm-solution" class="gm-section">
+    <h2 class="gm-heading">🌱 БЛОК 2: РЕШЕНИЕ</h2>
+    <h3 class="gm-subheading">«Растительное молоко — это отдельный продукт, а не заменитель.»</h3>
+    <p>Растительное молоко состоит из воды, растительной основы (овса, миндаля, сои), соли и (при необходимости) витаминов и минералов. Это не искусственный продукт, а самостоятельный напиток с уникальным составом.</p>
+    
+    <h3 class="gm-subheading">Как выбрать подходящий вариант?</h3>
+    <div class="gm-table-wrap">
+      <table class="gm-table">
+        <thead><tr><th>Ваша цель</th><th>Рекомендуемая основа</th><th>Почему</th></tr></thead>
+        <tbody>
+          <tr><td>Здоровье ребёнка, лёгкое усвоение</td><td>Овсяное / Миндальное</td><td>Мягкий вкус, естественно низкая кислотность</td></tr>
+          <tr><td>Набор мышечной массы, спорт</td><td>Соевое</td><td>Высокое содержание полноценного белка</td></tr>
+          <tr><td>Кофе, латте-арт, HoReCa</td><td>Barista Professional</td><td>Стабильная пенка, pH=7, не сворачивается</td></tr>
+          <tr><td>Вкусовые эксперименты, выпечка</td><td>Кокос / Фундук / Ваниль / Яблочный штрудель</td><td>Насыщенный аромат, заменяет сиропы</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3 class="gm-subheading">Почему Green Milk особенный?</h3>
+    <ol class="gm-list-ordered">
+      <li><strong>Простота состава:</strong> Содержит всего 5 ингредиентов. Без каррагинана, ксантановой камеди и скрытых сахаров.</li>
+      <li><strong>Эффективность обогащения:</strong> Кальций, B12 и витамин D в формах, которые легко усваиваются организмом.</li>
+      <li><strong>Стойкость при нагревании:</strong> Не сворачивается в кофе даже при температуре до 80°C. Подходит для каш, смузи и выпечки.</li>
+    </ol>
+    <blockquote
+
+
+lass="gm-quote">✅ «Мы даём вам факты, чтобы вы могли сделать осознанный выбор.»</blockquote>
+  </section>
+
+  <section id="gm-proof" class="gm-section">
+    <h2 class="gm-heading">🔍 БЛОК 3: ДОКАЗАТЕЛЬСТВО</h2>
+    <h3 class="gm-subheading">«Проверяйте сами.»</h3>
+    <p>🔬 <strong>Факт 1: Независимая лабораторная проверка</strong>
+
+    Каждая партия проходит независимую экспертизу. Результаты доступны для всех.
+
+    • Тяжёлые металлы: <code class="gm-code">отсутствуют</code>
+
+    • Микробиологические показатели: <code class="gm-code">в норме</code>
+
+    • Соответствие этикетке: <code class="gm-code">99,8%</code></p>
+
+    <p>📜 <strong>Факт 2: Сертификаты и их значение</strong>
+
+    • <code class="gm-code">Organic</code> — продукция без синтетических пестицидов и ГМО.
+
+    • <code class="gm-code">Vegan Society</code> — веганская продукция на всех этапах.
+
+    • <code class="gm-code">Non-GMO Project</code> — продукт проверен на отсутствие генетических модификаций.</p>
+
+    <p>👥 <strong>Факт 3: Отзывы реальных людей</strong></p>
+    <blockquote class="gm-quote">«У младшего ребёнка непереносимость лактозы. Мы перешли на овсяное молоко Green Milk. Через два месяца педиатр отметил нормализацию уровня кальция. Ребёнок пьёт его с удовольствием.»
+<strong>— Анна, 34 года</strong></blockquote>
+    <blockquote class="gm-quote">«Искал растительный источник белка без изолятов. С Green Milk и тренировками набрал 3,5 кг сухой массы за четыре месяца. Животных продуктов не употребляю.»
+<strong>— Максим, 28 лет, веган</strong></blockquote>
+
+    <p>👩‍⚕️ <strong>Факт 4: Мнение эксперта</strong>
+
+    «Green Milk — редкий бренд, где состав соответствует заявленному действию. Обогащение в хелатных и мицеллярных формах обеспечивает лучшее усвоение.»
+
+    <strong>— Ирина К., нутрициолог, член РАД</strong></p>
+
+    <h3 class="gm-subheading">🛣️ Дорожная карта производства</h3>
+    <div class="gm-timeline">
+      <div class="gm-step"><span class="gm-icon">🌾</span><p>Выращивание сырья</p></div>
+      <div class="gm-step"><span class="gm-icon">📦</span><p>Заготовка и проверка</p></div>
+      <div class="gm-step"><span class="gm-icon">⚙️</span><p>Производство (экструзия)</p></div>
+      <div class="gm-step"><span class="gm-icon">🔬</span><p>Лабораторный контроль</p></div>
+      <div class="gm-step"><span class="gm-icon">♻️</span><p>Эко-упаковка</p></div>
+      <div class="gm-step"><span class="gm-icon">🚚</span><p>Доставка в магазин</p></div>
+    </div>
+  </section>
+
+  <section id="gm-guide" class="gm-section">
+    <h2 class="gm-heading">🥛 БЛОК 4: ПРАКТИЧЕСКИЙ ГИД</h2>
+    <h3 class="gm-subheading">«Как вписать Green Milk в свой рацион за 3 шага»</h3>
+    
+    <h3 class="gm-subheading">Шаг 1: Идеальная температура</h3>
+    <ol class="gm-list-ordered">
+      <li><strong>Кофе:</strong> подогрейте молоко до <code class="gm-code">60–65°C</code>. Не кипятите.</li>
+      <li><strong>Каши:</strong> залейте овсянку горячим молоком. Накройте крышкой на 3 минуты.</li>
+      <li><strong>Смузи:</strong> используйте охлаждённое молоко (<code class="gm-code">4–8°C</code>) для густой консистенции.</li>
+    </ol>
+
+    <h3 class="gm-subheading">Шаг 2: Как хранить</h3>
+    <ul class="gm-list">
+      <li>📦 <strong>До вскрытия:</strong> <code class="gm-code">12 месяцев</code> при <code class="gm-code">+2°C … +25°C</code></li>
+      <li>🧊 <strong>После вскрытия:</strong> <code class="gm-code">48 часов</code> в холодильнике, плотно закрыв.</li>
+      <li>⚠️ <strong>Важно:</strong> не замораживайте в оригинальной упаковке. Перелейте в пластиковый контейнер.</li>
+    </ul>
+
+    <h3 class="gm-subheading">Шаг 3: Быстрые рецепты (3 минуты)</h3>
+    <ol class="gm-list-ordered">
+      <li><strong>Латте для утра:</strong> 200 мл овсяного + 1 порция эспрессо + щепотка корицы.</li>
+      <li><strong>Каша для ребёнка:</strong> 40 г овсянки + 150 мл овсяного Green Milk + натёртое яблоко.</li>
+      <li><strong>Протеиновый смузи:</strong> 200 мл соевого + 1 банан + 1 ч. л. арахисовой пасты.</li>
+    </ol>
+
+    <div class="gm-quiz">
+      <h3 class="gm-subheading">🎯 К
+
+
+акое молоко вам подойдет?</h3>
+      <label class="gm-label">Для кого выбираете?</label>
+      <select id="gm-q1" class="gm-select"><option>Для себя</option><option>Для ребенка (3-7 лет)</option><option>Для ребенка (7-12 лет)</option><option>Для всей семьи</option></select>
+      
+      <label class="gm-label">Какова главная цель?</label>
+      <select id="gm-q2" class="gm-select"><option>Улучшение здоровья/иммунитета</option><option>Снижение аллергии/непереносимости</option><option>Экологичность и этичность</option><option>Вкус и кулинарные эксперименты</option></select>
+      
+      <label class="gm-label">Как планируете использовать?</label>
+      <select id="gm-q3" class="gm-select"><option>В кофе и чае</option><option>Для приготовления каш</option><option>В смузи и коктейлях</option><option>Для выпечки</option><option>В разных блюдах</option></select>
+      
+      <button id="gm-quiz-btn" class="gm-btn">Подобрать</button>
+      <div id="gm-quiz-result" class="gm-result"></div>
+    </div>
+  </section>
+
+  <div class="gm-cta">
+    <h2 class="gm-heading">🛒 Готовы попробовать? Выберите свой старт</h2>
+    <p>«Мы за честный выбор. Даже если это не Green Milk. Но если вы всё же решите попробовать, мы сделаем всё возможное, чтобы вы остались довольны!»</p>
+    <a href="#" class="gm-btn">Найти в магазине</a>
+    <a href="#" class="gm-btn gm-btn-outline">Заказать доставку</a>
+    <a href="#" class="gm-btn gm-btn-outline">Скачать гайд по латте-арту</a>
+  </div>
+</div>
+
+<style>
+  .gm-longread{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,sans-serif;color:#212529;line-height:1.65;max-width:960px;margin:0 auto;padding:0 16px}
+  .gm-header{text-align:center;margin-bottom:40px}
+  .gm-title{font-size:2.2rem;margin:0 0 20px;line-height:1.25}
+  .gm-lead{background:#fff;padding:24px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,0.06);margin-bottom:24px}
+  .gm-list,.gm-list-ordered{padding-left:24px;margin:0 0 16px}
+  .gm-nav{display:flex;flex-wrap:wrap;gap:10px;justify-content:center;margin-top:16px}
+  .gm-nav a{background:#e9f5ec;color:#1e4d35;padding:8px 16px;border-radius:20px;text-decoration:none;font-weight:500}
+  .gm-nav a:hover{background:#1e4d35;color:#fff}
+  .gm-section{background:#fff;padding:28px;margin-bottom:32px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.04)}
+  .gm-heading{color:#1b4332;margin:0 0 16px;font-size:1.65rem}
+  .gm-subheading{font-size:1.25rem;margin:24px 0 12px}
+  .gm-quote{border-left:4px solid #2d6a4f;background:#f8f9fa;padding:14px 18px;margin:16px 0;font-style:italic}
+  .gm-code{background:#eef2f3;padding:2px 6px;border-radius:4px;font-family:monospace;font-size:0.95em}
+  .gm-table-wrap{overflow-x:auto}
+  .gm-table{width:100%;border-collapse:collapse;margin:12px 0;font-size:0.95rem}
+  .gm-table th,.gm-table td{padding:10px 12px;border-bottom:1px solid #dee2e6;text-align:left}
+  .gm-table th{background:#e9f5ec}
+  .gm-timeline{display:flex;flex-wrap:wrap;gap:12px;margin:20px 0}
+  .gm-step{flex:1;min-width:130px;background:#e9f5ec;padding:14px;border-radius:8px;text-align:center;opacity:0;transform:translateY(16px);transition:0.4s ease}
+  .gm-step.visible{opacity:1;transform:translateY(0)}
+  .gm-icon{font-size:24px;display:block;margin-bottom:6px}
+  .gm-quiz{background:#e9f5ec;padding:20px;border-radius:10px;margin-top:20px}
+  .gm-label{display:block;font-weight:500;margin-bottom:6px}
+  .gm-select{width:100%;padding:10px;margin-bottom:14px;border:1px solid #ced4da;border-radius:6px;background:#fff}
+  .gm-btn{display:inline-block;background:#2d6a4f;color:#fff;padding:12px 24px;border:none;border-radius:6px;font-weight:600;cursor:pointer;text-decoration:none}
+  .gm-btn-outline{background:transparent;border:2px solid #2d6a4f;color:#2d6a4f}
+  .gm-btn:hover{background:#1b4332}
+  .gm-btn-outline:hover{background:#e9f5ec}
+  .gm-result{margin-top:14px;padding:14px;background:#fff;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.05);display:none}
+  .gm-cta{text-align:center;margin:40px 0 60px}
+  max-width:768px{.gm-title{font-size:1.7rem}.gm-section{padding:20px}.gm-
+
+
+step{min-width:100%}}
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Timeline scroll animation
+    const steps = document.querySelectorAll('.gm-step');
+    const obs = new IntersectionObserver(e => e.forEach(i => { if(i.isIntersecting) i.target.classList.add('visible') }), {threshold: 0.3});
+    steps.forEach(s => obs.observe(s));
+
+    // Quiz logic
+    const btn = document.getElementById('gm-quiz-btn');
+    const res = document.getElementById('gm-quiz-result');
+    if(btn && res){
+      btn.addEventListener('click', function(){
+        const q1 = document.getElementById('gm-q1').value;
+        const q2 = document.getElementById('gm-q2').value;
+        const q3 = document.getElementById('gm-q3').value;
+        let prod = '', why = '';
+        
+        if(q2.includes('аллерг') || q1.includes('ребенка')){
+          prod = 'Овсяное Green Milk'; why = 'Гипоаллергенная основа, мягкий вкус, естественно подходит для детского рациона.';
+        } else if(q3.includes('кофе')){
+          prod = 'Barista Professional'; why = 'pH=7, стабильная глянцевая пенка, не сворачивается до 80°C.';
+        } else if(q2.includes('Здоровье')){
+          prod = 'Соевое Green Milk'; why = 'Максимум полноценного белка, B12 и кальция для активного образа жизни.';
+        } else {
+          prod = 'Миндальное / Кокосовое Green Milk'; why = 'Насыщенный вкус для смузи, десертов и кулинарных экспериментов.';
+        }
+        res.style.display = 'block';
+        res.innerHTML = `<strong>Вам подойдёт: ${prod}</strong>
+${why}
+
+<a href="#" class="gm-btn" style="font-size:0.9rem;padding:8px 16px">Перейти к продукту →</a>`;
+      });
+    }
+  });
+</script> c
