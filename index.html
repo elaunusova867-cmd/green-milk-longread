@@ -35,6 +35,16 @@
     .img-wrap { text-align: center; margin: 20px 0; }
     .img-wrap img { max-width: 100%; height: auto; border-radius: 12px; box-shadow: var(--shadow); display: inline-block; }
 
+    /* Центрирование и ограничение размера для info_greenmilk.jpg */
+    .img-center {
+      display: block;
+      margin: 20px auto;
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      box-shadow: var(--shadow);
+    }
+
     .table-wrap { overflow-x: auto; margin: 16px 0; }
     table { width: 100%; border-collapse: collapse; }
     th, td { padding: 10px 12px; border-bottom: 1px solid var(--border); text-align: left; }
@@ -57,11 +67,9 @@
     .cta { text-align: center; margin: 40px 0 60px; }
     .cta p { margin-bottom: 20px; }
 
-    footer { text-align: center; padding: 40px 0 60px; color: #6c757d; font-size: 0.9rem
-
-
-}
-    max-width: 768px { h1 { font-size: 1.7rem; } section { padding: 20px; } .step { min-width: 100%; } }
+    footer { text-align: center; padding: 40px 0 60px; color: #6c757d; font-size: 0.9rem; }
+    
+    @media (max-width: 768px) { h1 { font-size: 1.7rem; } section { padding: 20px; } .step { min-width: 100%; } }
   </style>
 </head>
 <body>
@@ -174,7 +182,7 @@
 
       <h3>🛣️ Дорожная карта производства</h3>
       <div class="timeline">
-        <img src="info_greenmilk.jpg" alt="Дорожная карта производства" loading="lazy">
+        <img src="info_greenmilk.jpg" alt="Дорожная карта производства" class="img-center" loading="lazy">
       </div>
       <div class="img-wrap">
         <img src="https://avatars.mds.yandex.net/get-mpic/11824272/2a000001918130329c3da7ba42a772456290/orig" alt="Инфографика: 6 этапов производства от поля до полки" loading="lazy">
@@ -204,11 +212,7 @@
         <li><strong>Латте для утра:</strong> 200 мл овсяного + 1 порция эспрессо + щепотка корицы.</li>
         <li><strong>Каша для ребенка:</strong> 40 г овсянки + 150 мл овсяного Green Milk + натертое яблоко.</li>
         <li><strong>Протеиновый смузи:</strong> 200 мл соевого + 1 банан + 1 ч. л. арахисовой пасты.</li>
-      <
-
-
-
-/ol>
+      </ol>
 
       <div class="quiz">
         <h3>🎯 Какое молоко вам подойдет?</h3>
@@ -283,4 +287,4 @@ ${why}
     });
   </script>
 </body>
-</html>;
+</html>
